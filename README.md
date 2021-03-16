@@ -1,5 +1,3 @@
-# app_asas
-
 ## Project setup
 ```
 npm install
