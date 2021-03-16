@@ -7,7 +7,7 @@
       </div>
       <b-button
         variant="primary"
-        href="https://oauth.vk.com/authorize?client_id=7791417&scope=friends,offline&display=page&redirect_uri=egormalyshev99.github.io/wgg-test-task1.0/&response_type=token&v=5.130"
+        href="https://oauth.vk.com/authorize?client_id=7791417&scope=friends,offline&display=page&redirect_uri=egormalyshev99.github.io/wgg-test-task/&response_type=token&v=5.130"
         >Авторизоваться</b-button
       >
     </div>
